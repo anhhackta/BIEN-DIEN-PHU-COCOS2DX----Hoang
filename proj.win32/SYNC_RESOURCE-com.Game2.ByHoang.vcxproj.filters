@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\DuAnGame\com.Game2.ByHoang\proj.win32\CMakeFiles\3ca172529a463c3529b5bf4325652f75\SYNC_RESOURCE-com.Game2.ByHoang.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\DuAnGame\com.Game2.ByHoang\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\DuAnGame\com.Game2.ByHoang\proj.win32\CMakeFiles\SYNC_RESOURCE-com.Game2.ByHoang" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{19751C78-227C-3C10-A703-116F46BEFC26}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
